@@ -40,7 +40,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://https://github.com/Zenova-Prime/LecWeb.git
+   git clone https://github.com/Zenova-Prime/LecWeb.git
    ```
 2. Navigate to the project directory and install dependencies:
    ```bash
